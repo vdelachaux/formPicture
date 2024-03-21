@@ -93,11 +93,24 @@
 					"width": 39,
 					"height": 29,
 					"picture": "Images/server.png"
+				},
+				"Button": {
+					"type": "button",
+					"text": "SET FORMAT",
+					"top": 180,
+					"left": 111,
+					"width": 142,
+					"height": 22,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Button.4dm",
+					"focusable": false
 				}
 			}
 		}
 	],
-	"geometryStamp": 57,
+	"geometryStamp": 58,
 	"editor": {
 		"activeView": "View 1",
 		"defaultView": "View 1",
