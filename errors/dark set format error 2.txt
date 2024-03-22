@@ -1,0 +1,24 @@
+Error when executing the method "dark.Button" at line number 5- Cannot open file "server2.png" (Macintosh HD:Users:vincentdelachaux:GITHUB:formPictures:build:Compiled Database:formPictures.4dbase:formPictures.4dbase.4DZ:Project:Sources:Forms:dark:Images:server2.png)Error code: 602 (xbox)
+Cannot open file "server2.png" (Macintosh HD:Users:vincentdelachaux:GITHUB:formPictures:build:Compiled Database:formPictures.4dbase:formPictures.4dbase.4DZ:Project:Sources:Forms:dark:Images:server2.png)
+xtoolbox
+xtoolbox
+task -3
+Error code: 9 (CZip)
+Error code: 9 (CZip)
+component: 'CZip'
+component: 'CZip'
+task -3
+Call chain:[
+	{
+		"type": "formObjectMethod",
+		"name": "dark.Button",
+		"line": 5,
+		"database": "formPictures"
+	},
+	{
+		"type": "projectMethod",
+		"name": "dark",
+		"line": 2,
+		"database": "formPictures"
+	}
+]
